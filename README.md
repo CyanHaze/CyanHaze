@@ -1,6 +1,8 @@
 ## Hi, this is CyanHaze. 👋
 - 📚 Undergraduate at ZJU (ME'28)
-- 🔬 Currently insterested in: **Dexterous Hands** and **Robotic Manipulation**
+- 🤖 Exploring **Dexterous Hands**, **Hand-Object Interaction**, **Grasping**, and **Learning-based Control**
+- 💼 Working on **3D vision-based dexterous hand grasping**
+- 🔬 Interested in **Representation Learning**, **Computer Vision**, and **Robotic Manipulation**
 - 💻 Personal homepage: [CyanHaze.github.io](https://CyanHaze.github.io)
 - 📫 Feel free to reach out to me at CyanHaze@outlook.com
 
