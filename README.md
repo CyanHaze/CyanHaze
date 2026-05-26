@@ -2,7 +2,7 @@
 - 📚 Undergraduate at ZJU (ME'28)
 - 🤖 Exploring **Dexterous Hands**, **Hand-Object Interaction**, **Grasping**, and **Learning-based Control**
 - 💼 Working on **3D vision-based dexterous hand grasping**
-- 🔬 Interested in **Representation Learning**, **Computer Vision**, and **Robotic Manipulation**
+- 🔬 Interested in **Robot Perception**, **3D Vision**, **Dexterous Manipulation**, **World Models**, **Representation Learning**
 - 💻 Personal homepage: [CyanHaze.github.io](https://CyanHaze.github.io)
 - 📫 Feel free to reach out to me at CyanHaze@outlook.com
 
