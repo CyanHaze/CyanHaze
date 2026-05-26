@@ -1,4 +1,8 @@
-## Hi there 👋
+## Hi, this is CyanHaze. 👋
+- 📚 Undergraduate at ZJU (ME'28)
+- 🔬 Currently insterested in: **Dexterous Hands** and **Robotic Manipulation**
+- 💻 Personal homepage: [CyanHaze.github.io](https://CyanHaze.github.io)
+- 📫 Feel free to reach out to me at CyanHaze@outlook.com
 
 <!--
 **CyanHaze/CyanHaze** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
